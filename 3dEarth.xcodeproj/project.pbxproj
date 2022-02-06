@@ -44,7 +44,7 @@
 		B3539F8C27B06B39009C23EF = {
 			isa = PBXGroup;
 			children = (
-				B3539F9727B06B39009C23EF /* 3dEarth */,
+				B3539FBD27B08D85009C23EF /* 3DEarth */,
 				B3539F9627B06B39009C23EF /* Products */,
 			);
 			sourceTree = "<group>";
@@ -57,7 +57,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		B3539F9727B06B39009C23EF /* 3dEarth */ = {
+		B3539FBD27B08D85009C23EF /* 3DEarth */ = {
 			isa = PBXGroup;
 			children = (
 				B3539FB227B07518009C23EF /* EarthNode.swift */,
@@ -70,7 +70,7 @@
 				B3539FA327B06B3A009C23EF /* LaunchScreen.storyboard */,
 				B3539FA627B06B3A009C23EF /* Info.plist */,
 			);
-			path = 3dEarth;
+			path = 3DEarth;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
